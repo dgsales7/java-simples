@@ -1,4 +1,4 @@
-package classes_conexoes;
+package classes;
 
 import java.awt.EventQueue;
 
